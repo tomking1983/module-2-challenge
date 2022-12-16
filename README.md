@@ -23,12 +23,12 @@ SO THAT I can use this portfolio in future work opportunities
 
 ### Example Solution
 
-https://courses.bootcampspot.com/courses/3028/files/2370764/preview
+![](./docs/example.png)
 
 ### Link to work
 
-https://tomking1983.github.io/module-1-challenge
+[Module 2 Work](https://tomking1983.github.io/module-2-challenge/)
 
 ### Screenshot of website
 
-![website screenshot](https://tomking1983.github.io/module-2-challenge/docs/screenshot.png)
+![website screenshot](./docs/screenshot.png)

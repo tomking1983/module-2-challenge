@@ -13,6 +13,10 @@ h3 {
   margin: 0;
 }
 
+h2 {
+  font-size: 40px;
+}
+
 p {
   margin: 20px;
   color: #1d2538;
@@ -249,13 +253,9 @@ ul.contactNav {
   font-size: 20px;
 }
 
-.footer-text a {
-  color: var(--l;
-}
-
 /* media queries */
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1083px) {
   header {
     display: flex;
     align-items: center;
@@ -323,7 +323,7 @@ ul.contactNav {
   }
   h2 {
     text-align: center;
-    font-size: 30px;
+    font-size: 20px;
   }
 
   ul.contactNav {

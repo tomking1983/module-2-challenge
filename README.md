@@ -25,11 +25,13 @@ When viewing the section about your work then the section contains titled images
 
 
 ## Notes
-
 During this exercise I have learnt key skills in creating a responsive website and including hover effects on items within my portfolio
 
 ## Deployed Site Link
 [Tom King Portfolio](https://tomking1983.github.io/tom-king-portfolio/)
+
+### Cached Version
+Please ensure cache has been cleared if viewing before to view the updated image and links to a deployed website in featured item in Work section
 
 ## Outcome
 ![screenshot](./images/screenshot.png)
